@@ -1,16 +1,64 @@
-Appendix A: AI Use Declaration (Template)
-Copy and paste this into your README.md or submit as a separate section:
-AI Tool(s) Used: ________________________________
-Purpose of AI Use (check all that apply): □ brainstorming  □ layout/UI ideas  □ debugging  □ code generation  □ refactoring  □ styling suggestions  □ other: ____________
-Where AI was used (short description):
-__________________________________________________________________________
+THIS IS THE PROMTP I USED.
+
+---
+
+## Appendix A: AI Use Declaration
+
+**AI Tool(s) Used:** ChatGPT
+**Purpose of AI Use (check all that apply):** ☑ brainstorming ☑ layout/UI ideas ☑ code generation ☑ styling suggestions
+**Where AI was used (short description):**
+
+* **HTML:** AI helped label the HTML code and organized sections for clarity. It also fixed minor issues in my code.
+* **CSS:** AI suggested layout ideas, added labels to CSS sections, and verified that the final code structure was acceptable.
+* **JS/jQuery:** AI generated code snippets, explained their functionality, and suggested styling improvements.
+
 I confirm that I reviewed, tested, and understood the final code I submitted.
-Appendix B: AI Prompt Log (Template)
-Create a file named PROMPTS.md (or equivalent) and include entries like the format below:
-Entry #1
-Tool Used:
-Prompt (copy-paste exactly):
-AI Output (summary or screenshot reference):
-How I used/modified it in my project:
---------------------------------------------
-Entry #2 (repeat as needed)
+
+---
+
+## Appendix B: AI Prompt Log
+
+**Entry #1**
+**Tool Used:** ChatGPT
+**Prompt (copy-paste exactly):**
+*"can you please give me an idea for this? like an example on how to make it."*
+**AI Output (summary or screenshot reference):** Alright, I got you 👍 — this task looks complicated at first, but I’ll break it down and give you a clear example idea + structure so you can actually build it step by step.
+**How I used/modified it in my project:** I used it to ask help on it by giving me ideas.
+
+---
+
+---
+
+## Appendix B: AI Prompt Log
+
+**Entry #2**
+**Tool Used:** ChatGPT
+**Prompt (copy-paste exactly):**
+*"can you put labels for my html and css, no need to change the code, just the comments for easier to see."*
+**AI Output (summary or screenshot reference):** Organized HTML into labeled sections like `<!-- NAVIGATION -->`, `<!-- ABOUT -->`, `<!-- EDUCATION -->`, etc., and corrected structural errors.
+**How I used/modified it in my project:** Incorporated the labeled and fixed HTML into my project to improve readability and maintainability.
+
+---
+
+**Entry #3**
+**Tool Used:** ChatGPT
+**Prompt (copy-paste exactly):**
+*"can you please give me multiple codes for css resume so that i can have an idea on the layout"*
+*"can you put labels for my html and css, no need to change the code, just the comments for easier to see"*
+*"do you think my css is acceptable for this resume?"*
+**AI Output (summary or screenshot reference):** Suggested layout adjustments (flexbox/grid ideas, spacing, colors), added section labels like `/* NAVIGATION STYLES */`, `/* ABOUT SECTION */`, and checked the final CSS structure.
+**How I used/modified it in my project:** Applied the layout suggestions, added labels to CSS, and verified the styling worked as intended with my HTML.
+
+---
+
+**Entry #4**
+**Tool Used:** ChatGPT
+**Prompt (copy-paste exactly):**
+*"can you make me the js for my resume? give me the full code here is my html and css."*
+*"can you explain to how this js works?."*
+**AI Output (summary or screenshot reference):** Generated functional JS/jQuery code (e.g., smooth scrolling, toggling sections), with explanations for each function and selector used.
+**How I used/modified it in my project:** Implemented the code in my project and referenced the explanations to understand the logic and functionality of each feature.
+
+---
+
+
