@@ -12,11 +12,11 @@ Section: **IT2R1**
 Course: BSIT - **2nd Year (USTP)**
 
 **Links**
-**GitHub Repository: **
+GitHub Repository: 
 
-**Live Demo (GitHub Pages):** 
+Live Demo (GitHub Pages): 
 
-**Demo Video (YouTube): **
+Demo Video (YouTube): 
 
 **Features Implemented**
 HTML/CSS: A one page resume using both HTML and CSS for styling and aligning words.
