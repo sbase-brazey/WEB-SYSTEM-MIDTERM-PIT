@@ -1,24 +1,24 @@
 # WEB-SYSTEM-MIDTERM-PIT
 My Resume PIT
 
-Project Overview
+**Project Overview**
 A professional, interactive one-page web resume built using HTML5, CSS3, JavaScript, and jQuery. This project demonstrates core web development skills including DOM manipulation, event handling, and responsive design.
 
-Student Information
-Name: Ken Jan S. Vanzuela
+**Student Information**
+Name: **Ken Jan S. Vanzuela**
 
-Section: IT2R1
+Section: **IT2R1**
 
-Course: BSIT - 2nd Year (USTP)
+Course: BSIT - **2nd Year (USTP)**
 
-Links
-GitHub Repository: 
+**Links**
+**GitHub Repository: **
 
-Live Demo (GitHub Pages): 
+**Live Demo (GitHub Pages):** 
 
-Demo Video (YouTube): 
+**Demo Video (YouTube): **
 
-Features Implemented
+**Features Implemented**
 HTML/CSS: A one page resume using both HTML and CSS for styling and aligning words.
 
 JavaScript: * Prompt-based visitor personalization.
