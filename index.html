@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Resume</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- NAVIGATION -->
+<nav>
+    <a href="#about">About</a>
+    <a href="#education">Education</a>
+    <a href="#skills">Skills</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<!-- HEADER -->
+<header>
+    <h1 id="welcome">Welcome!</h1>
+    <img src="images/profile.jpg" alt="Profile Photo">
+    <h2 id="name">Ken Jan S. Vanzuela</h2>
+    <h4>22 Years Old</h4>
+    <h4>Cagayan de Oro City</h4>
+</header>
+
+<!-- ABOUT -->
+<section id="about">
+    <h2>About Me</h2>
+    <p id="aboutText">I am an aspiring web developer with a passion for creating dynamic and user-friendly websites.</p>
+    <button id="viewBtn" onclick="changeText()">View More</button>
+</section>
+
+<!-- EDUCATION -->
+<section id="education">
+    <h2>Education</h2>
+    <p>Bachelor of Science in Information Technology</p>
+</section>
+
+<!-- SKILLS -->
+<section id="skills">
+    <h2>Skills</h2>
+    <input type="text" id="searchSkill" placeholder="Search skills...">
+    <ul id="skillList">
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Python</li>
+    </ul>
+</section>
+
+<!-- PROJECTS -->
+<section id="projects">
+    <h2>Projects</h2>
+    <button id="toggleProjects">Show Projects</button>
+    <ul id="projectList">
+        <li>Online Ordering System</li>
+        <li>Enrollment System</li>
+    </ul>
+</section>
+
+<!-- CONTACT -->
+<section id="contact">
+    <h2>Contact</h2>
+    <form id="contactForm">
+        <input type="text" id="name" placeholder="Name">
+        <input type="email" id="email" placeholder="Email">
+        <textarea id="message" placeholder="Message"></textarea>
+        <button type="submit">Send</button>
+    </form>
+    <p id="formMsg"></p>
+</section>
+
+<!-- jQuery CDN -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- JS FILE -->
+<script src="js/script.js"></script>
+
+</body>
+</html>
