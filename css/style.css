@@ -1,0 +1,121 @@
+/* SMOOTH SCROLL */
+html {
+    scroll-behavior: smooth;
+}
+
+/* GENERAL */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f4f4f4;
+
+    /* PREVENT CONTENT FROM HIDING UNDER NAVBAR */
+    padding-top: 80px;
+}
+
+/* NAVBAR */
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background: #333;
+    padding: 15px;
+
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+/* NAV LINKS */
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* PSEUDO-CLASS */
+nav a:hover {
+    color: #00adb5;
+}
+
+/* HEADER */
+header {
+    text-align: center;
+    padding: 30px 20px;
+    background: #00adb5;
+    color: white;
+}
+
+header img {
+    width: 150px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+/* SECTIONS */
+section {
+    background: white;
+    margin: 20px;
+    padding: 25px;
+    border-radius: 12px;
+    
+    /* MODERN BORDER */
+    border: 1px solid #e0e0e0;
+
+    /* SHADOW */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+
+}
+
+
+/* INPUTS */
+input, textarea {
+    display: block;
+    width: 20%;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+/* BUTTON */
+button {
+    padding: 10px 15px;
+    background: #00adb5;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+/* BUTTON HOVER */
+button:hover {
+    background: #007b80;
+    transform: scale(1.05);
+}
+
+/* HIGHLIGHT CLASS (jQuery feature) */
+.highlight {
+    background-color: rgb(73, 113, 247);
+}
+
+/* SKILL & PROJECT LIST */
+#skillList,
+#projectList {
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+/* LIST ITEMS */
+li {
+    padding: 5px;
+    cursor: pointer;
+}
+
+/* HOVER EFFECT ON LIST */
+li:hover {
+    background: #f0f0f0;
+}
