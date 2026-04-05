@@ -12,9 +12,9 @@ Section: **IT2R1**
 Course: BSIT - **2nd Year (USTP)**
 
 **Links**
-**GitHub Repository**: 
+**GitHub Repository**: https://github.com/sbase-brazey/WEB-SYSTEM-MIDTERM-PIT
 
-**Live Demo** (GitHub Pages): 
+**Live Demo** (GitHub Pages): https://sbase-brazey.github.io/WEB-SYSTEM-MIDTERM-PIT/
 
 **Demo Video** (YouTube): 
 
